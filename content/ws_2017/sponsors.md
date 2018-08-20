@@ -13,11 +13,31 @@ caption = ""
 
 Thanks to our corporate sponsors, the workshop is free to attendees and we are able to provide inclusive travel funding to select participants.
 
-![Black Power in AI](/img/blackinai.png)
+## ![Black Power in AI](/img/blackinai.png)
 
-![Facebook]({{< static "img/facebook.jpg" >}})
 
 ![Facebook](/img/facebook.jpg)
+
+<hr>
+
+![Microsoft](/img/microsoft.png)
+![Google](/img/google.png)
+
+<hr>
+
+##  ![System](/img/fa-code.png)
+
+![DeepMind](/img/deepmind.png)
+
+<hr>
+
+##  ![Component](/img/fa-chip.png)  
+
+![ElementAI](/img/elementai.png)
+![Airbnb](/img/airbnb.png)
+![Savoy Venture Partners](/img/savoy.jpg)
+![Uber](/img/uber.png)
+<hr>
 
 
 
