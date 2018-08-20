@@ -6,14 +6,14 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://esube.github.io/"
 
 # Title of your site
 title = "Black in AI"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2018 Black in AI"
 
 theme = "academic"
 enableEmoji = true
@@ -56,11 +56,11 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "ocean"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "classic"
 
   # Your details.
   name = "Black in AI"
@@ -88,7 +88,7 @@ enableGitInfo = false
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = "bai_logo.png"
+  logo = ""#"bai_logo.png"
 
   # Enable/disable map in Contact widget.
   # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
@@ -238,7 +238,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "https://twitter.com/black_in_ai"
 
   [[params.social]]
     icon = "google-scholar"
@@ -248,7 +248,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "https://github.com/blackinai"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -271,29 +271,90 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "publication/" #"#publications_selected"
+  identifier = "2018ws"
+  name = "2018 Workshop"
+  url = "ws_2018/"
   weight = 2
+
+[[menu.main]]
+  parent = "2018ws"
+  name = "CFP"
+  url = "ws_2018/cfp"
+  weight = 1
+
+[[menu.main]]
+  parent = "2018ws"
+  name = "Submissions"
+  url = "ws_2018/submissions"
+  weight = 2
+
+[[menu.main]]
+  parent = "2018ws"
+  name = "Travel Grant"
+  url = "ws_2018/grants"
+  weight = 3
+
+[[menu.main]]
+  parent = "2018ws"
+  name = "organizers"
+  url = "ws_2018/organizers"
+  weight = 4
+
+[[menu.main]]
+  identifier = "2017ws"
+  name = "2017 Workshop"
+  url = "ws_2017/"
+  weight = 3
+
+[[menu.main]]
+  parent = "2017ws"
+  name = "CFP2017"
+  url = "ws_2017/cfp"
+  weight = 1
+
+[[menu.main]]
+  parent = "2017ws"
+  name = "Submissions2017"
+  url = "ws_2017/submissions"
+  weight = 2
+
+[[menu.main]]
+  parent = "2017ws"
+  name = "Travel Grants2017"
+  url = "ws_2017/grants"
+  weight = 3
+
+[[menu.main]]
+  parent = "2017ws"
+  name = "organizers2017"
+  url = "ws_2017/organizers"
+  weight = 4
+
+[[menu.main]]
+  parent = "2017ws"
+  name = "sponsors2017"
+  url = "ws_2017/sponsors"
+  weight = 7
 
 [[menu.main]]
   name = "Posts"
   url = "post/"
-  weight = 3
-
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
   weight = 4
 
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
+#[[menu.main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 5
+
+#[[menu.main]]
+#  name = "Teaching"
+#  url = "#teaching"
+#  weight = 6
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 7
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
