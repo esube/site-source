@@ -308,31 +308,31 @@ enableGitInfo = false
 
 [[menu.main]]
   parent = "2017ws"
-  name = "CFP2017"
+  name = "CFP 2017"
   url = "ws_2017/cfp"
   weight = 1
 
 [[menu.main]]
   parent = "2017ws"
-  name = "Submissions2017"
+  name = "Submissions 2017"
   url = "ws_2017/submissions"
   weight = 2
 
 [[menu.main]]
   parent = "2017ws"
-  name = "Travel Grants2017"
+  name = "Travel Grants 2017"
   url = "ws_2017/grants"
   weight = 3
 
 [[menu.main]]
   parent = "2017ws"
-  name = "organizers2017"
+  name = "organizers 2017"
   url = "ws_2017/organizers"
   weight = 4
 
 [[menu.main]]
   parent = "2017ws"
-  name = "sponsors2017"
+  name = "sponsors 2017"
   url = "ws_2017/sponsors"
   weight = 7
 
