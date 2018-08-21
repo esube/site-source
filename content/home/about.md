@@ -10,15 +10,16 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "FAT",
-    "AI in Africa"
+    "[Data Science Africa](http://www.datascienceafrica.org)",
+    "[Deep Learning Indaba](http://www.deeplearningindaba.com)",
+    "[LatinX in AI](http://www.latinxinai.org)",
+    "[Women in Machine Learning](https://wimlworkshop.org)"
   ]
 
 # List of Workshops and Major Events.
 [[education.courses]]
   course = "2nd Black in AI Workshop"
-  institution = "in Conjuction with NIPS 2017"
+  institution = "in Conjuction with NIPS 2018"
   year = 2018
 
 [[education.courses]]

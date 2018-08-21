@@ -73,9 +73,9 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "bai_logo.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "organizers@blackinai.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
+  address = ""#"Building 1 Room 1, Stanford University, California, 90210, USA"
+  office_hours = ""#"Monday 10:00 to 13:00 or email for appointment"
+  phone = ""#"888 888 88 88"
   skype = ""
   telegram = ""
 
