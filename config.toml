@@ -56,7 +56,7 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "ocean"
+  color_theme = "bai" # Black in AI color template (Dark Navy Blue)
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -236,19 +236,29 @@ enableGitInfo = false
     link = "mailto:organizers@blackinai.org"
 
   [[params.social]]
-    icon = "twitter"
+    icon = "twitter-square"
     icon_pack = "fa"
     link = "https://twitter.com/black_in_ai"
 
   [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
-
-  [[params.social]]
-    icon = "github"
+    icon = "facebook-square"
     icon_pack = "fa"
-    link = "https://github.com/blackinai"
+    link = "https://www.facebook.com/blackinai/"
+
+  #[[params.social]]
+  #  icon = "facebook"
+  #  icon_pack = "fa"
+  #  link = "https://www.facebook.com/groups/250631148730672/"
+
+  #[[params.social]]
+  #  icon = "google-scholar"
+  #  icon_pack = "ai"
+  #  link = "https://blackinai.joleh.com"
+
+  #[[params.social]]
+  #  icon = "github"
+  #  icon_pack = "fa"
+  #  link = "https://github.com/blackinai"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -261,100 +271,102 @@ enableGitInfo = false
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
+sectionPagesMenu = "main"
+
 [params.menus]
   # Align the main menu to the right of the page? (true/false)
   align_right = true
 
-[[menu.main]]
-  name = "Home"
-  url = "#about"
-  weight = 1
+  [[menu.main]]
+    name = "Home"
+    url = "#about"
+    weight = 1
 
-[[menu.main]]
-  identifier = "2018ws"
-  name = "2018 Workshop"
-  url = "ws_2018/"
-  weight = 2
+  [[menu.main]]
+    identifier = "2018ws"
+    name = "2018 Workshop"
+    url = "ws_2018/"
+    weight = 2
 
-[[menu.main]]
-  parent = "2018ws"
-  name = "CFP"
-  url = "ws_2018/cfp"
-  weight = 1
+  [[menu.main]]
+    parent = "2018ws"
+    name = "CFP"
+    url = "ws_2018/cfp"
+    weight = 1
 
-[[menu.main]]
-  parent = "2018ws"
-  name = "Submissions"
-  url = "ws_2018/submissions"
-  weight = 2
+  [[menu.main]]
+    parent = "2018ws"
+    name = "Submissions"
+    url = "ws_2018/submissions"
+    weight = 2
 
-[[menu.main]]
-  parent = "2018ws"
-  name = "Travel Grant"
-  url = "ws_2018/grants"
-  weight = 3
+  [[menu.main]]
+    parent = "2018ws"
+    name = "Travel Grant"
+    url = "ws_2018/grants"
+    weight = 3
 
-[[menu.main]]
-  parent = "2018ws"
-  name = "organizers"
-  url = "ws_2018/organizers"
-  weight = 4
+  [[menu.main]]
+    parent = "2018ws"
+    name = "Organizers"
+    url = "ws_2018/organizers"
+    weight = 4
 
-[[menu.main]]
-  identifier = "2017ws"
-  name = "2017 Workshop"
-  url = "ws_2017/"
-  weight = 3
+  [[menu.main]]
+    identifier = "2017ws"
+    name = "2017 Workshop"
+    url = "ws_2017/"
+    weight = 3
 
-[[menu.main]]
-  parent = "2017ws"
-  name = "CFP 2017"
-  url = "ws_2017/cfp"
-  weight = 1
+  [[menu.main]]
+    parent = "2017ws"
+    name = "CFP 2017"
+    url = "ws_2017/cfp"
+    weight = 1
 
-[[menu.main]]
-  parent = "2017ws"
-  name = "Submissions 2017"
-  url = "ws_2017/submissions"
-  weight = 2
+  [[menu.main]]
+    parent = "2017ws"
+    name = "Submissions 2017"
+    url = "ws_2017/submissions"
+    weight = 2
 
-[[menu.main]]
-  parent = "2017ws"
-  name = "Travel Grants 2017"
-  url = "ws_2017/grants"
-  weight = 3
+  [[menu.main]]
+    parent = "2017ws"
+    name = "Travel Grants 2017"
+    url = "ws_2017/grants"
+    weight = 3
 
-[[menu.main]]
-  parent = "2017ws"
-  name = "organizers 2017"
-  url = "ws_2017/organizers"
-  weight = 4
+  [[menu.main]]
+    parent = "2017ws"
+    name = "Organizers 2017"
+    url = "ws_2017/organizers"
+    weight = 4
 
-[[menu.main]]
-  parent = "2017ws"
-  name = "sponsors 2017"
-  url = "ws_2017/sponsors"
-  weight = 7
+  [[menu.main]]
+    parent = "2017ws"
+    name = "Sponsors 2017"
+    url = "ws_2017/sponsors"
+    weight = 7
 
-[[menu.main]]
-  name = "Posts"
-  url = "post/"
-  weight = 4
+  [[menu.main]]
+    name = "Posts"
+    url = "post/"
+    weight = 4
 
-#[[menu.main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 5
+  #[[menu.main]]
+  #  name = "Projects"
+  #  url = "#projects"
+  #  weight = 5
 
-#[[menu.main]]
-#  name = "Teaching"
-#  url = "#teaching"
-#  weight = 6
+  #[[menu.main]]
+  #  name = "Teaching"
+  #  url = "#teaching"
+  #  weight = 6
 
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 7
+  [[menu.main]]
+    name = "Contact"
+    url = "#contact"
+    weight = 7
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

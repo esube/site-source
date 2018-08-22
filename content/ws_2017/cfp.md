@@ -1,5 +1,5 @@
 +++
-title = "Call for Participation"
+title = "Call for Participation 2017"
 date = 2018-08-08T00:00:01
 math = false
 highlight = false

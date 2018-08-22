@@ -1,8 +1,10 @@
 ﻿+++
-title = "Organizers"
+title = "Organizers 2018"
 date = 2018-08-08T00:00:03
 math = false
 highlight = false
+
+summary = ""
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

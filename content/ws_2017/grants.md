@@ -1,5 +1,5 @@
 ﻿+++
-title = "Travel Grants"
+title = "Travel Grants 2017"
 date = 2018-08-08T00:00:03
 math = false
 highlight = false

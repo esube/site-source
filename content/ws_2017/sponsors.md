@@ -1,5 +1,5 @@
 ﻿+++
-title = "2017 Sponsors"
+title = "2017 Sponsors 2017"
 date = 2018-08-08T00:00:05
 math = false
 highlight = false

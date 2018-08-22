@@ -1,5 +1,5 @@
 ﻿+++
-title = "Submission Instructions"
+title = "Submission Instructions 2017"
 date = 2018-08-08T00:00:02
 math = false
 highlight = false
