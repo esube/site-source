@@ -14,6 +14,6 @@ We welcome work in artificial intelligence, including, but not limited to, compu
 <br>
 Submissions may be up to two pages including all figures and tables, with an additional page for references. The submissions should be in a single column. They should be typeset using 11-point or larger fonts and should have at least 1-inch margin all around. Submissions that do not follow these guidelines risk being rejected without consideration of their merits.  
 <br>
-Submissions must state the research problem, motivation, and technical contribution. Submissions must be self-contained and include all figures, tables, and references. The submission page can be found [here](https://cmt3.research.microsoft.com/BLACKINAI2018/Submission/Manage) and the submission deadline is __5:00 PM EST, August 30, 2018__. Please note that no extensions will be offered for submissions.
+Submissions must state the research problem, motivation, and technical contribution. Submissions must be self-contained and include all figures, tables, and references. The submission page can be found [here](https://cmt3.research.microsoft.com/BLACKINAI2018) and the submission deadline is __5:00 PM EST, August 30, 2018__. Please note that no extensions will be offered for submissions.
 
 Here are a set of good sample papers from 2017: [sample papers](https://github.com/blackinai/blackinai.github.io/tree/master/papers)
