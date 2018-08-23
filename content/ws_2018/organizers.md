@@ -12,10 +12,10 @@ image = ""
 caption = ""
 +++
 
-# Workshop Co-Chairs
+## Workshop Co-Chairs
 
 [Rediet Abebe](https://www.cs.cornell.edu/~red/), Cornell University  
-[Esube Bekele](), US Naval Research Laboratory  
+[Esube Bekele](https://esube.github.io), US Naval Research Laboratory  
 [Sarah Brown](http://sarahmbrown.org/), Brown University  
 [Mouhamadou Moustapha Cisse](http://moustaphacisse.com/), Google AI  
 [Timnit Gebru](http://ai.stanford.edu/~tgebru/), Microsoft Research  
@@ -23,73 +23,82 @@ caption = ""
 [Devin Guillory](), Etsy  
 [Sanmi Koyejo](http://sanmi.cs.illinois.edu/), University of Illinois, Urbana Champaigns
 
-# 2018 Program Committee
+## 2018 Program Committee
 
-|            Name            	|                     Institution/Organization                    	|
-|:--------------------------:	|:---------------------------------------------------------------:	|
-| Ousmane Amadou Dia         	|                            Element AI                           	|
-| Irwan Bello                	|                           Google Brain                          	|
-| Charles Earl               	|                            Automattic                           	|
-| Zanele Munyikwa            	|                  MIT Sloan School of Management                 	|
-| Oluwaseun Francis Egbelowo 	|           University of the Witwatersrand South Africa          	|
-| Justice Amoh               	|                        Dartmouth College                        	|
-| Jack Hessel                	|                        Cornell University                       	|
-| Samy Bengio                	|                           Google Brain                          	|
-| Abigail Jacobs             	|                University of California Berkeley                	|
-| Hal DaumĂŠ III             	|           Microsoft Research / University of Maryland           	|
-| Ben Green                  	|                             Harvard                             	|
-| Basiliyos Tilahun BETRU    	|  University of Yaounde I National Advanced School of Engneering 	|
-| Ehi Nosakhare              	|                               MIT                               	|
-| Dhaval Adjodah             	|                          MIT Media Lab                          	|
-| Kale-ab Tessera            	|                   University of Witwatersrand                   	|
-| Lily Hu                    	|                        Harvard University                       	|
-| Charles C Onu              	|                        McGill University                        	|
-| Alvin Grissom II           	|                         Ursinus College                         	|
-| Billy Okal                 	|                              Voyage                             	|
-| Zachary C Lipton           	|                               CMU                               	|
-| Awa Dieng                  	|                         Duke University                         	|
-| Adji Bousso Dieng          	|                             Columbia                            	|
-| VICTOR C DIBIA             	|                           IBM Research                          	|
-| Rachel Thomas              	|              fast.ai & University of San Francisco              	|
-| Jenn Wortman Vaughan       	|                        Microsoft Research                       	|
-| David Robinson             	|                           Cornell AIPP                          	|
-| Forough Poursabzi-Sangdeh  	|                        Microsoft Research                       	|
-| Lucio Dery                 	|                       Stanford / Facebook                       	|
-| sileye ba                  	|                           Dailymotion                           	|
-| Hugo Larochelle            	|                           Google Brain                          	|
-| Diana Cai                  	|                       Princeton University                      	|
-| Alemu Leulseged Tesfaye    	|                 Ca' Foscari University of Venice                	|
-| Kristian Lum               	|                              HRDAG                              	|
-| Ian Goodfellow             	|                           Google Brain                          	|
-| Sorelle Friedler           	|                        Haverford College                        	|
-| Johan Ugander              	|                       Stanford University                       	|
-| Melissa Woghiren           	|                      University of Alberta                      	|
-| Robert Ness                	|                           Gamalon Inc                           	|
-| Vukosi Marivate            	|                      University of PRetoria                     	|
-| Ciira Maina                	|              Dedan Kimathi University of Technology             	|
-| Margaret Mitchell          	|                              Google                             	|
+| Name                       	| Institution / Company                                           	|
+|----------------------------	|-----------------------------------------------------------------	|
+| Rediet Abebe               	| Cornell University                                              	|
+| Dhaval Adjodah             	| MIT Media Lab                                                   	|
+| Yoseph Berhanu Alebachew   	| Addis Ababa University                                          	|
+| Justice Amoh               	| Dartmouth College                                               	|
+| Amar Ashar                 	| Berkman Klein Center for Internet & Society                     	|
+| Sileye Ba                  	| Dailymotion                                                     	|
+| Esube Bekele               	| US Naval Research Laboratory                                    	|
+| Ayalew Belay               	| Addis Ababa University                                          	|
+| Irwan Bello                	| Google Brain                                                    	|
+| Samy Bengio                	| Google Brain                                                    	|
+| Basiliyos Tilahun Betru    	| National Advanced School of Engineering University Of Yaounde I 	|
+| David Bindel               	| Cornell University                                              	|
+| Sarah Brown                	| Brown University                                                	|
+| Diana Cai                  	| Princeton University                                            	|
+| Mouhamadou Moustapha Cisse 	| Google AI                                                       	|
+| Alexis Cook                	| Udacity                                                         	|
+| Hal Daumé III              	| Microsoft Research / University of Maryland                     	|
+| Lucio Dery                 	| Stanford / Facebook                                             	|
+| Ousmane Amadou Dia         	| Element AI                                                      	|
+| Victor C Dibia             	| IBM Research                                                    	|
+| Adji Bousso Dieng          	| Columbia                                                        	|
+| Awa Dieng                  	| Duke University                                                 	|
+| Charles Earl               	| Automattic                                                      	|
+| Ashley Edwards             	| Georgia Institute of Technology                                 	|
+| Oluwaseun Francis Egbelowo 	| University of the Witwatersrand                                 	|
+| Ruth Fong                  	| University of Oxford                                            	|
+| Lanke Frank Fu             	| Ascent Robotics                                                 	|
+| Sorelle Friedler           	| Haverford College                                               	|
+| Timnit Gebru               	| Microsoft Research                                              	|
+| Judy Wawira Gichoya        	| Oregon Health and Science University                            	|
 | Gebremedhin Fisseha Gidey  	| National Advanced School of Engineering University Of Yaounde I 	|
-| Bernease Herman            	|                     University of Washington                    	|
-| Natalie Schluter           	|                   IT University of Copenhagen                   	|
-| Evan Rosenman              	|                       Stanford University                       	|
-| Wil Thomason               	|                            Cornell CS                           	|
-| Amar Ashar                 	|           Berkman Klein Center for Internet & Society           	|
-| Negar Rostamzadeh          	|                            Element AI                           	|
-| Vicente Ordonez            	|                      University of Virginia                     	|
-| David Bindel               	|                        Cornell University                       	|
-| Ashley Edwards             	|                           Georgia Tech                          	|
-| Emmanuel Johnson           	|                               USC                               	|
-| Rachael Tatman             	|                              Kaggle                             	|
-| Matthew Tesfaldet          	|  York University & Vector Institute of Artificial Intelligence  	|
-| Nyalleng Moorosi           	|                               None                              	|
-| Ruth Fong                  	|                       University of Oxford                      	|
-| Christan Grant             	|                      University of Oklahoma                     	|
-| Alexis Cook                	|                             Udacity                             	|
-| Yoseph Berhanu Alebachew   	|      Department of Computer Science Addis Ababa University      	|
-| Lanke Frank Fu             	|                         Ascent Robotics                         	|
-| Amsale Zelalem             	|        Addis Ababa University Computer Science Department       	|
-| Ayalew Belay (PhD)         	|                      Addis Ababa University                     	|
-| Marcelo Worsley            	|                     NORTHWESTERN UNIVERSITY                     	|
-| Solomon Gizaw              	|                      Addis Ababa University                     	|
-| Tao Xie                    	|            University of Illinois at Urbana-Champaign           	|
-| Lonnie T Parker            	|                              NAVSEA                             	|
+| Solomon Gizaw              	| Addis Ababa University                                          	|
+| Ian Goodfellow             	| Google Brain                                                    	|
+| Christan Grant             	| University of Oklahoma                                          	|
+| Ben Green                  	| Harvard University                                              	|
+| Alvin Grissom II           	| Ursinus College                                                 	|
+| Devin Guillory             	| Etsy                                                            	|
+| Bernease Herman            	| University of Washington                                        	|
+| Jack Hessel                	| Cornell University                                              	|
+| Lily Hu                    	| Harvard University                                              	|
+| Abigail Jacobs             	| University of California Berkeley                               	|
+| Emmanuel Johnson           	| University of Southern California                               	|
+| Sanmi Koyejo               	| University of Illinois at Urbana-Champaign                      	|
+| Hugo Larochelle            	| Google Brain                                                    	|
+| Zachary C Lipton           	| Carnegie Mellon University                                      	|
+| Kristian Lum               	| Hunan Rights and Data Analysis Group                            	|
+| Ciira Maina                	| Dedan Kimathi University of Technology                          	|
+| Vukosi Marivate            	| University of Pretoria                                          	|
+| Margaret Mitchell          	| Google AI                                                       	|
+| Nyalleng Moorosi           	| None                                                            	|
+| Zanele Munyikwa            	| MIT Sloan School of Management                                  	|
+| Robert Ness                	| Gamalon Inc                                                     	|
+| Ehi Nosakhare              	| MIT                                                             	|
+| Billy Okal                 	| Voyage                                                          	|
+| Charles C Onu              	| McGill University                                               	|
+| Vicente Ordonez            	| University of Virginia                                          	|
+| Lonnie T Parker            	| Naval Sea Systems Command                                       	|
+| Forough Poursabzi-Sangdeh  	| Microsoft Research                                              	|
+| David Robinson             	| Cornell University                                              	|
+| Evan Rosenman              	| Stanford University                                             	|
+| Negar Rostamzadeh          	| Element AI                                                      	|
+| Natalie Schluter           	| IT University of Copenhagen                                     	|
+| Rachael Tatman             	| Kaggle                                                          	|
+| Matthew Tesfaldet          	| York University & Vector Institute of Artificial Intelligence   	|
+| Alemu Leulseged Tesfaye    	| Ca’ Foscari University of Venice                                	|
+| Kale-ab Tessera            	| University of Witwatersrand                                     	|
+| Rachel Thomas              	| fast.ai & University of San Francisco                           	|
+| Wil Thomason               	| Cornell University                                              	|
+| Johan Ugander              	| Stanford University                                             	|
+| Jenn Wortman Vaughan       	| Microsoft Research                                              	|
+| Melissa Woghiren           	| University of Alberta                                           	|
+| Marcelo Worsley            	| Northwestern University                                         	|
+| Jason Yosinski             	| Uber AI Labs                                                    	|
+| Tao Xie                    	| University of Illinois at Urbana-Champaign                      	|
+| Amsale Zelalem             	| Addis Ababa University                                          	|

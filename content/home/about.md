@@ -10,11 +10,11 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "[Black Girls Code](http://blackgirlscode.com)",
     "[Data Science Africa](http://www.datascienceafrica.org)",
     "[Deep Learning Indaba](http://www.deeplearningindaba.com)",
     "[LatinX in AI](http://www.latinxinai.org)",
-    "[Women in Machine Learning](https://wimlworkshop.org)",
-    "[Black Girls Code](http://blackgirlscode.com)"
+    "[Women in Machine Learning](https://wimlworkshop.org)"    
   ]
 
 # List of Workshops and Major Events.
