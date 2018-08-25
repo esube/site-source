@@ -1,13 +1,19 @@
-﻿+++
++++
 title = "Submission Instructions 2018"
-date = 2018-08-08T00:00:01
-math = false
-highlight = false
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
+date = 2016-04-20
+lastmod = 2018-01-20
+draft = false
+
+math = true
+
+linktitle = "Submissions 2018"
+
+aliases = ["post/submissions/"]
+
+[menu.workshop]
+    parent = "setup"
+    weight = 20
 +++
 
 We welcome work in artificial intelligence, including, but not limited to, computer vision, deep learning, knowledge reasoning, machine learning, multi-agent systems, natural language processing, statistical reasoning, theory, robotics, as well as applications of AI to other domains such as health and education, and submissions concerning fairness, ethics, and transparency in AI. Papers may introduce new theory, methodology, or applications. We also welcome position papers and demos related to these areas. Work may be previously published, completed, or ongoing. Submissions will be peer-reviewed by at least 2 reviewers in the area. The workshop will not publish proceedings. We encourage all Black researchers in the field to submit their work, and do not need to be first author of the work.  

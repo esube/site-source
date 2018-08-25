@@ -1,13 +1,14 @@
-﻿+++
++++
 title = "Travel Grants 2017"
-date = 2018-08-08T00:00:03
-math = false
-highlight = false
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
+date = 2017-12-03
+lastmod = 2017-12-03
+
+linktitle = "Travel Grants"
+
+[menu.workshop]
+  parent = "content"
+  weight = 10
 +++
 
 ## Travel Awards

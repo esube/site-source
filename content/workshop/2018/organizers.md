@@ -1,15 +1,15 @@
 ﻿+++
 title = "Organizers 2018"
-date = 2018-08-08T00:00:03
+
+date = 2016-04-20
+lastmod = 2018-01-20
+draft = false
+
 math = false
-highlight = false
 
-summary = ""
-
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
+[menu.workshop]
+    parent = "setup"
+    weight = 40
 +++
 
 ## Workshop Co-Chairs

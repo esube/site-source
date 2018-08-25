@@ -1,13 +1,14 @@
-﻿+++
-title = "Organizers 2017"
-date = 2018-08-08T00:00:04
++++
+date = 2016-04-18
+draft = false
+title = "Organizers 2018"
 math = false
-highlight = false
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
+linktitle = "Organizers"
+
+[menu.workshop]
+  parent = "content"
+  weight = 20
 +++
 
 # Workshop Co-Chairs

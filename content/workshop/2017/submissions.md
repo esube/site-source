@@ -1,13 +1,13 @@
-﻿+++
++++
 title = "Submission Instructions 2017"
-date = 2018-08-08T00:00:02
-math = false
-highlight = false
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
+date = 2017-12-03
+lastmod = 2017-12-03
+
+linktitle = "Submissions"
+[menu.workshop]
+  parent = "content"
+  weight = 2
 +++
 
 We welcome theoretical, empirical, and applied work in machine learning and artificial intelligence, including, but not limited to, search, planning, knowledge representation, reasoning, natural language processing, computer vision, robotics, multiagent systems, statistical reasoning, and deep learning. Work may be previously published, completed, or ongoing. Submissions will be peer-reviewed by at least 2 reviewers. The workshop will not publish proceedings. The presenter must be a Black researcher in AI, and does not need to be first author.

@@ -1,15 +1,18 @@
 ﻿+++
-title = "2017 Sponsors 2017"
-date = 2018-08-08T00:00:05
-math = false
-highlight = false
+title = "Sponsors 2017"
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
+date = 2016-04-17
+lastmod = 2018-01-13
+draft = false
+
+math = true
+
+linktitle = "Sponsors"
+
+[menu.workshop]
+  parent = "content"
+  weight = 30
 +++
-
 
 Thanks to our corporate sponsors, the workshop is free to attendees and we are able to provide inclusive travel funding to select participants.
 

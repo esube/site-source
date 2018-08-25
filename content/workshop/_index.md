@@ -1,6 +1,7 @@
 +++
-title = "BAI 2017 1st Workshop"
-date = 2018-08-08T00:00:00
+title = "Workshops"
+date = 2017-11-19
+
 math = false
 highlight = false
 
