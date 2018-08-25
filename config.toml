@@ -284,74 +284,74 @@ sectionPagesMenu = "main"
 
   [[menu.main]]
     identifier = "2018ws"
-    name = "2018 Workshop"
-    url = "ws_2018/"
+    name = "2018"
+    url = "2018/"
     weight = 2
 
   [[menu.main]]
     parent = "2018ws"
     name = "CFP"
-    url = "ws_2018/cfp"
+    url = "2018/cfp"
     weight = 1
 
   [[menu.main]]
     parent = "2018ws"
     name = "Submissions"
-    url = "ws_2018/submissions"
+    url = "2018/submissions"
     weight = 2
 
   [[menu.main]]
     parent = "2018ws"
     name = "Travel Grant"
-    url = "ws_2018/grants"
+    url = "2018/grants"
     weight = 3
 
   [[menu.main]]
     parent = "2018ws"
     name = "Organizers"
-    url = "ws_2018/organizers"
+    url = "2018/organizers"
     weight = 4
 
   [[menu.main]]
     identifier = "2017ws"
-    name = "2017 Workshop"
-    url = "ws_2017/"
+    name = "2017"
+    url = "2017/"
     weight = 3
 
   [[menu.main]]
     parent = "2017ws"
     name = "CFP 2017"
-    url = "ws_2017/cfp"
+    url = "2017/cfp"
     weight = 1
 
   [[menu.main]]
     parent = "2017ws"
     name = "Submissions 2017"
-    url = "ws_2017/submissions"
+    url = "2017/submissions"
     weight = 2
 
   [[menu.main]]
     parent = "2017ws"
     name = "Travel Grants 2017"
-    url = "ws_2017/grants"
+    url = "2017/grants"
     weight = 3
 
   [[menu.main]]
     parent = "2017ws"
     name = "Organizers 2017"
-    url = "ws_2017/organizers"
+    url = "2017/organizers"
     weight = 4
 
   [[menu.main]]
     parent = "2017ws"
     name = "Sponsors 2017"
-    url = "ws_2017/sponsors"
+    url = "2017/sponsors"
     weight = 7
 
-  [[menu.main]]
-    name = "Posts"
-    url = "post/"
-    weight = 4
+  #[[menu.main]]
+  #  name = "Posts"
+  #  url = "post/"
+  #  weight = 4
 
   #[[menu.main]]
   #  name = "Projects"
