@@ -10,6 +10,11 @@ math = false
 [menu.workshop]
     parent = "setup"
     weight = 40
+
+# Optional featured image (relative to `static/img` folder).
+[header]
+image = "city.jpg"
+caption = "Montreal"
 +++
 
 ## Workshop Co-Chairs
