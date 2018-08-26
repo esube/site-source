@@ -1,9 +1,6 @@
 +++
 title = "Travel Grants 2017"
 
-date = 2017-12-03
-lastmod = 2017-12-03
-
 linktitle = "Travel Grants"
 
 [menu.workshop]

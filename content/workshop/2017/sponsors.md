@@ -1,8 +1,6 @@
 ﻿+++
 title = "Sponsors 2017"
 
-date = 2016-04-17
-lastmod = 2018-01-13
 draft = false
 
 math = true

@@ -1,5 +1,4 @@
 +++
-date = 2016-04-18
 draft = false
 title = "Organizers 2018"
 math = false

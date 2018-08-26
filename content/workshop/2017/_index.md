@@ -1,6 +1,5 @@
 +++
 title = "Workshop 2017"
-date = 2017-11-19
 
 math = false
 highlight = false

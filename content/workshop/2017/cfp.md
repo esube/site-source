@@ -1,8 +1,6 @@
 +++
 title = "CFP 2017"
 
-date = 2014-03-10
-
 linktitle = "CFP"
 
 [menu.workshop]
