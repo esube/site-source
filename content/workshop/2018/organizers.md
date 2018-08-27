@@ -23,7 +23,7 @@ caption = "Montreal"
 [Mouhamadou Moustapha Cisse](http://moustaphacisse.com/), Google AI  
 [Timnit Gebru](http://ai.stanford.edu/~tgebru/), Microsoft Research  
 [Judy Wawira Gichoya](http://www.gichoya.me/about/), Oregon Health and Science University  
-[Devin Guillory](), Etsy  
+[Devin Guillory](https://www.linkedin.com/in/devin-guillory-78528958/), Etsy  
 [Sanmi Koyejo](http://sanmi.cs.illinois.edu/), University of Illinois, Urbana Champaigns
 
 ## 2018 Program Committee
