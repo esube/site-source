@@ -14,33 +14,40 @@ linktitle = "Sponsors"
 
 Thanks to our corporate sponsors, the workshop is free to attendees and we are able to provide inclusive travel funding to select participants.
 
-## ![Black Power in AI](/img/blackinai.png)
+## Platinum Sponsors
 
+{{< figure src="/img/blackinai.png" class="img-sponsor-icon">}}
 
-![Facebook](/img/facebook.jpg)
-
-<hr>
-
-![Microsoft](/img/microsoft.png)
-![Google](/img/google.png)
+{{< figure src="/img/facebook.jpg" class="img-sponsor-c">}}
 
 <hr>
+## Gold Sponsors
 
-##  ![System](/img/fa-code.png)
+{{< figure src="/img/microsoft.png" class="img-sponsor-c">}}
 
-![DeepMind](/img/deepmind.png)
+{{< figure src="/img/google.png" class="img-sponsor-c">}}
 
 <hr>
+## Silver Sponsors
 
-##  ![Component](/img/fa-chip.png)  
+{{< figure src="/img/fa-code.png" class="img-sponsor-c">}}
 
-![ElementAI](/img/elementai.png)
-![Airbnb](/img/airbnb.png)
-![Savoy Venture Partners](/img/savoy.jpg)
-![Uber](/img/uber.png)
+{{< figure src="/img/deepmind.png" class="img-sponsor-c">}}
+
 <hr>
+## Bronze Sponsors
 
+{{< figure src="/img/fa-chip.png" class="img-sponsor-third-c">}}
 
+{{< figure src="/img/elementai.png" class="img-sponsor-third-c">}}
+
+{{< figure src="/img/airbnb.png" class="img-sponsor-third-c">}}
+
+{{< figure src="/img/savoy.jpg" class="img-sponsor-third-c">}}
+
+{{< figure src="/img/uber.png" class="img-sponsor-third-c">}}
+
+<hr>
 
 We thank [B4 Capital Group](https://b4capitalgroup.com/) for their support
 <br><br>
