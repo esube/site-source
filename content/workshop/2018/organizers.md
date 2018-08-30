@@ -38,6 +38,7 @@ caption = "Montreal"
 | Sileye Ba                  	| Dailymotion                                                     	|
 | Esube Bekele               	| US Naval Research Laboratory                                    	|
 | Ayalew Belay               	| Addis Ababa University                                          	|
+| Danielle Belgrave          	| Microsoft Research                                              	|
 | Irwan Bello                	| Google Brain                                                    	|
 | Samy Bengio                	| Google Brain                                                    	|
 | Basiliyos Tilahun Betru    	| National Advanced School of Engineering University Of Yaounde I 	|
@@ -50,14 +51,14 @@ caption = "Montreal"
 | Lucio Dery                 	| Stanford / Facebook                                             	|
 | Ousmane Amadou Dia         	| Element AI                                                      	|
 | Victor C Dibia             	| IBM Research                                                    	|
-| Adji Bousso Dieng          	| Columbia                                                        	|
+| Adji Bousso Dieng          	| Columbia University                                             	|
 | Awa Dieng                  	| Duke University                                                 	|
 | Charles Earl               	| Automattic                                                      	|
 | Ashley Edwards             	| Georgia Institute of Technology                                 	|
 | Oluwaseun Francis Egbelowo 	| University of the Witwatersrand                                 	|
 | Ruth Fong                  	| University of Oxford                                            	|
-| Lanke Frank Fu             	| Ascent Robotics                                                 	|
 | Sorelle Friedler           	| Haverford College                                               	|
+| Lanke Frank Fu             	| Ascent Robotics                                                 	|
 | Timnit Gebru               	| Microsoft Research                                              	|
 | Judy Wawira Gichoya        	| Oregon Health and Science University                            	|
 | Gebremedhin Fisseha Gidey  	| National Advanced School of Engineering University Of Yaounde I 	|
@@ -75,11 +76,12 @@ caption = "Montreal"
 | Sanmi Koyejo               	| University of Illinois at Urbana-Champaign                      	|
 | Hugo Larochelle            	| Google Brain                                                    	|
 | Zachary C Lipton           	| Carnegie Mellon University                                      	|
-| Kristian Lum               	| Hunan Rights and Data Analysis Group                            	|
+| Kristian Lum               	| Human Rights and Data Analysis Group                            	|
 | Ciira Maina                	| Dedan Kimathi University of Technology                          	|
 | Vukosi Marivate            	| University of Pretoria                                          	|
 | Margaret Mitchell          	| Google AI                                                       	|
 | Nyalleng Moorosi           	| None                                                            	|
+| George Musumba             	| Dedan Kimathi University of Technology                          	|
 | Zanele Munyikwa            	| MIT Sloan School of Management                                  	|
 | Robert Ness                	| Gamalon Inc                                                     	|
 | Ehi Nosakhare              	| MIT                                                             	|
@@ -92,9 +94,10 @@ caption = "Montreal"
 | Evan Rosenman              	| Stanford University                                             	|
 | Negar Rostamzadeh          	| Element AI                                                      	|
 | Natalie Schluter           	| IT University of Copenhagen                                     	|
+| Flora Tasse                	| University of Cambridge                                         	|
 | Rachael Tatman             	| Kaggle                                                          	|
 | Matthew Tesfaldet          	| York University & Vector Institute of Artificial Intelligence   	|
-| Alemu Leulseged Tesfaye    	| Ca’ Foscari University of Venice                                	|
+| Alemu Leulseged Tesfaye    	| Ca Foscari University of Venice                                 	|
 | Kale-ab Tessera            	| University of Witwatersrand                                     	|
 | Rachel Thomas              	| fast.ai & University of San Francisco                           	|
 | Wil Thomason               	| Cornell University                                              	|
@@ -102,6 +105,6 @@ caption = "Montreal"
 | Jenn Wortman Vaughan       	| Microsoft Research                                              	|
 | Melissa Woghiren           	| University of Alberta                                           	|
 | Marcelo Worsley            	| Northwestern University                                         	|
-| Jason Yosinski             	| Uber AI Labs                                                    	|
 | Tao Xie                    	| University of Illinois at Urbana-Champaign                      	|
+| Jason Yosinski             	| Uber AI Labs                                                    	|
 | Amsale Zelalem             	| Addis Ababa University                                          	|
