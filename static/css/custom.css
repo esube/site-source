@@ -1,4 +1,8 @@
 /* Override margins for figures. */
+
+body.dark {
+  color: #000;
+}
 figure {
   margin-top: 0;
   margin-bottom: 0;
