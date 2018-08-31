@@ -23,7 +23,7 @@ The second Black in AI event will be co-located with [NIPS 2018](https://nips.cc
 
 ## Important Dates
  - <span style="color:red">**~~August 24, 2018: Travel grant application deadline~~**</span>
- - August 30, 2018: Abstract submission deadline
+ - <span style="color:red">**~~August 30, 2018: Abstract submission deadline~~**</span>
  - September 21, 2018: Notification of travel grant acceptance
  - September 30, 2018: Notification of submission acceptance
  - October 24, 2018: NIPS early registration deadline
