@@ -6,7 +6,7 @@ draft = false
 math = true
 
 [menu.workshop]
-    parent = "setup"
+    parent = "bai2018"
     weight = 30
 
 

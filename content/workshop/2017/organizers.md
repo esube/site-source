@@ -6,7 +6,7 @@ math = false
 linktitle = "Organizers"
 
 [menu.workshop]
-  parent = "content"
+  parent = "bai2017"
   weight = 20
 +++
 

@@ -10,7 +10,7 @@ linktitle = "Submissions 2018"
 aliases = ["post/submissions/"]
 
 [menu.workshop]
-    parent = "setup"
+    parent = "bai2018"
     weight = 20
 
 # Optional featured image (relative to `static/img` folder).

@@ -3,7 +3,7 @@ title = "Submission Instructions 2017"
 
 linktitle = "Submissions"
 [menu.workshop]
-  parent = "content"
+  parent = "bai2017"
   weight = 2
 +++
 

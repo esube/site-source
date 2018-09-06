@@ -4,7 +4,7 @@ title = "Travel Grants 2017"
 linktitle = "Travel Grants"
 
 [menu.workshop]
-  parent = "content"
+  parent = "bai2017"
   weight = 10
 +++
 

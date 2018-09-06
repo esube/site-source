@@ -4,7 +4,7 @@ title = "CFP 2018"
 draft = false
 
 [menu.workshop]
-  parent = "setup"
+  parent = "bai2018"
   weight = 1
 
 # Optional featured image (relative to `static/img` folder).

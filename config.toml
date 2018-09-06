@@ -416,12 +416,12 @@ enableGitInfo = true
 [[menu.workshop]]
   name = "BAI 2018"
   weight = 10
-  identifier = "setup"
+  identifier = "bai2018"
 
 [[menu.workshop]]
   name = "BAI 2017"
   weight = 20
-  identifier = "content"
+  identifier = "bai2017"
 
 # Search.
 [params.search]

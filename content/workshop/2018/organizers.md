@@ -6,7 +6,7 @@ draft = false
 math = false
 
 [menu.workshop]
-    parent = "setup"
+    parent = "bai2018"
     weight = 40
 
 # Optional featured image (relative to `static/img` folder).

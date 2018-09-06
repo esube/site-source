@@ -8,7 +8,7 @@ math = true
 linktitle = "Sponsors"
 
 [menu.workshop]
-  parent = "content"
+  parent = "bai2017"
   weight = 30
 +++
 

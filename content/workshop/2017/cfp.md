@@ -4,7 +4,7 @@ title = "CFP 2017"
 linktitle = "CFP"
 
 [menu.workshop]
-  parent = "content"
+  parent = "bai2017"
   weight = 1
 +++
 

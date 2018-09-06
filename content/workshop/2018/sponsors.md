@@ -8,15 +8,16 @@ math = true
 linktitle = "Sponsors 2018"
 
 [menu.workshop]
-  parent = "setup"
+  parent = "bai2018"
   weight = 60
 +++
 
 Thanks to our corporate sponsors, the workshop is free to attendees and we are able to provide inclusive travel funding to select participants.
 
+<hr>
 ## Platinum Sponsors
 
-{{< figure src="/img/blackinai.png" class="img-sponsor-icon">}}
+<!--{{< figure src="/img/blackinai.png" class="img-sponsor-icon">}} -->
 
 {{< figure src="/img/facebook.jpg" class="img-sponsor-c">}}
 
@@ -24,17 +25,27 @@ Thanks to our corporate sponsors, the workshop is free to attendees and we are a
 
 {{< figure src="/img/intel.png" class="img-sponsor-c">}}
 
+{{< figure src="/img/walton-family.png" class="img-sponsor-c">}}
+
+<hr>
+
+## Diamond Sponsors
+
 {{< figure src="/img/ibm.png" class="img-sponsor-c">}}
 
 {{< figure src="/img/amazon.png" class="img-sponsor-c">}}
-
-{{< figure src="/img/walton-family.png" class="img-sponsor-c">}}
 
 {{< figure src="/img/salesforce.png" class="img-sponsor-c">}}
 
 <hr>
 
-## Gold Sponsors
+## Gold Sponsor
+
+{{< figure src="/img/deepmind.png" class="img-sponsor-c">}}
+
+<hr>
+
+## Silver Sponsors
 
 {{< figure src="/img/microsoft.png" class="img-sponsor-c">}}
 
@@ -42,24 +53,25 @@ Thanks to our corporate sponsors, the workshop is free to attendees and we are a
 
 {{< figure src="/img/elementai.png" class="img-sponsor-c">}}
 
-{{< figure src="/img/deepmind.png" class="img-sponsor-c">}}
-
 {{< figure src="/img/macarthur-foundation.svg" class="img-sponsor-c">}}
 
 <hr>
 
-## Silver Sponsors
-
-{{< figure src="/img/airbnb.png" class="img-sponsor-c">}}
-
-{{< figure src="/img/kaggle.png" class="img-sponsor-c">}}
-
 <hr>
 
-<hr>
+<!-- We thank [B4 Capital Group](https://b4capitalgroup.com/) for their support
+<br><br> -->
 
-We thank [B4 Capital Group](https://b4capitalgroup.com/) for their support
-<br><br>
+<!-- {{< figure src="/img/airbnb.png" class="img-sponsor-c">}}
+
+{{< figure src="/img/kaggle.png" class="img-sponsor-c">}} -->
+
+We thank the following companies for their support.
+
+ - Airbnb
+ - Kaggle
+
+<hr>
 
 We also thank the following institutions  for sponsoring their students to attend the  workshop
 
