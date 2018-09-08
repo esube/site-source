@@ -15,7 +15,7 @@ linktitle = "Sponsors 2018"
 Thanks to our corporate sponsors, the workshop is free to attendees and we are able to provide inclusive travel funding to select participants.
 
 <hr>
-## Platinum Sponsors
+## <span style="color:lightblue">Diamond Sponsors</span>
 
 <!--{{< figure src="/img/blackinai.png" class="img-sponsor-icon">}} -->
 
@@ -29,25 +29,25 @@ Thanks to our corporate sponsors, the workshop is free to attendees and we are a
 
 <hr>
 
-## Diamond Sponsors
+## <span style="color:Silver">Platinum Sponsors</span>
 
 {{< figure src="/img/ibm.png" class="img-sponsor-c">}}
 
 {{< figure src="/img/amazon.png" class="img-sponsor-c">}}
 
-{{< figure src="/img/salesforce.png" class="img-sponsor-c">}}
+<!-- {{< figure src="/img/salesforce.png" class="img-sponsor-c">}} -->
 
 <hr>
 
-## Gold Sponsor
+## <span style="color:Gold"> Gold Sponsors </span>
 
 {{< figure src="/img/deepmind.png" class="img-sponsor-c">}}
 
+{{< figure src="/img/microsoft.png" class="img-sponsor-c">}}
+
 <hr>
 
-## Silver Sponsors
-
-{{< figure src="/img/microsoft.png" class="img-sponsor-c">}}
+## <span style="color:Silver">Silver Sponsors</span>
 
 {{< figure src="/img/etsy.png" class="img-sponsor-c">}}
 
